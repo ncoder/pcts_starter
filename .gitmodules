@@ -1,0 +1,4 @@
+[submodule "client/lib/engine"]
+	path = client/lib/engine
+	url = git@github.com:ncoder/engine.git
+	branch = feature/typescript

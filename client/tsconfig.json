@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5",
+    "allowJs": true,
+    "outFile": "./built/all.js",
+    "allowUnreachableCode": true /* playcanvas js files have this issue*/
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ],
+  "include": [
+    "lib/engine/src/build/output/playcanvas-latest.js",
+    "lib/engine/src/tsd-jsdoc/types.d.ts",
+    "app.ts"
+    ]
+}
