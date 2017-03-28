@@ -1,0 +1,15 @@
+{
+  "name": "pcts_starter",
+  "version": "1.0.0",
+  "description": "starter project for playcanvas and typescript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Coderre",
+  "license": "ISC"
+}
